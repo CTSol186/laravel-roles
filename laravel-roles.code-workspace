@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			{ "path": "." },
+		},
+	],
+	"settings": {
+		"editor.fontSize": 16,
+		"blade.format.enable": true,
+		"BracketHighlighter.highlightScopeFromText": true,
+		"codeswing.rootDirectory": "CodeSwing",
+		"codeswing.showConsole": true,
+		"emmet.showSuggestionsAsSnippets": true,
+		"emmet.triggerExpansionOnTab": true,
+		"liveServer.settings.CustomBrowser": "firefox:PrivateMode",
+		"scss.showErrors": true
+	}
+}
